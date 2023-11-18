@@ -14,7 +14,6 @@ To write a program to find the LU Decomposition of a matrix.
 3.Get input from user and pass it as an array.
 4.Get P, L, U matrix using lu()
 5.Print L and U matrix
-
 ## Program:
 (i) To find the L and U matrix
 ```
@@ -47,9 +46,7 @@ print(x)
 ```
 ## Output:
 ![Screenshot 2023-11-18 095524](https://github.com/praveenv23013808/LU-Decomposition/assets/145824728/a4fa8fa2-0017-49f8-83d2-8d43117da1c1)
-
 ![Screenshot 2023-11-18 095607](https://github.com/praveenv23013808/LU-Decomposition/assets/145824728/f3360c6e-d9a8-40ab-9283-bbc59f324b41)
-
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
 
