@@ -34,7 +34,6 @@ print(u)
 Developed by: PRAVEEN V
 RegisterNumber: 23013808
 '''
-
 # To print X matrix (solution to the equations)
 import numpy as np
 from scipy.linalg import lu_factor,lu_solve
